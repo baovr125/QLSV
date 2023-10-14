@@ -1,3 +1,4 @@
+
 path = 'D:\python\QLSV\QLsv.text'
 def save(line):
      try:
